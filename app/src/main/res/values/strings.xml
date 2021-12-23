@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Myprilowenie</string>
+    <string name="edit_message">Логин</string>
+    <string name="button_send">Поехали</string>
+    <string name="button_send2">Продолжить</string>
+    <string name="send_message2">send2</string>
+</resources>
