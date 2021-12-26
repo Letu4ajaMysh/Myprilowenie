@@ -1,4 +1,4 @@
-<Games_menu>
+<Games_List>
     <game id="23">
         <name>Lineage2</name>
         <description>
@@ -112,4 +112,4 @@
             В MIR4 несколько классов персонажей, интересный сюжет, а также ремесленные и собирательские профессии ,торговля, PvP, рейды и подземелья и многое другое.
         </description>
     </game>
-</Games_menu>
+</Games_List>
